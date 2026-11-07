@@ -15,12 +15,12 @@ This repository hosts the code used for the paper:
 3. [Installation & Setup](#installation)
 4. [Data & Models](#data)
 5. [Configuration & Parameters](#configuration)
-  1. [Experimental configurations](#exp_config)
-  2. [Data configurations](#data_config)
+    1. [Experimental configurations](#exp_config)
+    2. [Data configurations](#data_config)
 6. [Experimental Pipeline](#pipeline)
-  1. [Step 1: Hidden states extraction](#pipe_extraction)
-  2. [Step 2: Metrics computation](#pipe_metrics)
-  3. [Step 3: Diagnostic figures generation](#pipe_viz)
+    1. [Step 1: Hidden states extraction](#pipe_extraction)
+    2. [Step 2: Metrics computation](#pipe_metrics)
+    3. [Step 3: Diagnostic figures generation](#pipe_viz)
 7. [Citation](#citation)
 
 ---
