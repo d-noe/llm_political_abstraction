@@ -1,0 +1,22 @@
+{
+    "dataset_name":"twinviews",
+    "data_config_path":"./configs/data_config.json",
+    "device_name":"cuda:0",
+    "batch_size":32,
+    "max_length":512,
+    "models_names":["Llama-3.1-8B","Llama-3.1-8B-Instruct","OLMo-2-1124-7B-Instruct"],
+    "random_seed":92,
+    "cv_folds":5,
+    "compute_tfidf":true,
+    "bootstrap_samples":100,
+    "n_permutations":200,
+    "raw_outputs_folder":"./outputs/raw_outputs/",
+    "visualisation_output_folder":"./outputs/figures/",
+    "zoom_model":"Llama-3.1-8B-Instruct",
+    "zoom_layers":[2,14,30],
+    "figures_format":"pdf",
+    "ccgp_viz":true,
+    "pr_viz":true,
+    "corr_viz":true,
+    "verbose":true
+}

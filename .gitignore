@@ -1,3 +1,16 @@
+# Custom
+*tmp_*
+*old_*
+*oldies*
+*_tbr*
+*poster_*
+*todo*
+*TODO*
+*trial_*
+*dev*
+
+.DS_Store
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]

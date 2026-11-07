@@ -1,0 +1,12 @@
+{
+    "twinviews":{
+        "dataframe_path":"./data/preprocessed/twinviews_prepro.csv",
+        "domain_col":"issue",
+        "text_col":"statement",
+        "id_col":"data_id",
+        "pairwiseid_col":"statement_id",
+        "label_col":"label",
+        "labels":["l", "r"],
+        "hs_path":"./outputs/tmp_outs/activations/twinviews/"
+    }
+}
